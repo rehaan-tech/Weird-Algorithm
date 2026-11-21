@@ -1,2 +1,2 @@
-# Weird-Algorithm
 # Weird Algorithm solution
+* CSES PROBLEMSET
